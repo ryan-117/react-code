@@ -3434,7 +3434,7 @@ escodegen@^1.11.0, escodegen@^1.9.1:
 
 eslint-config-react-app@^5.0.1:
   version "5.0.1"
-  resolved "http://r.cnpmjs.org/eslint-config-react-app/download/eslint-config-react-app-5.0.1.tgz#5f3d666ba3ee3cb384eb943e260e868f6c72251b"
+  resolved "https://r.cnpmjs.org/eslint-config-react-app/download/eslint-config-react-app-5.0.1.tgz#5f3d666ba3ee3cb384eb943e260e868f6c72251b"
   integrity sha1-Xz1ma6PuPLOE65Q+Jg6Gj2xyJRs=
   dependencies:
     confusing-browser-globals "^1.0.8"
@@ -4110,7 +4110,7 @@ fs.realpath@^1.0.0:
 
 fsevents@2.0.7:
   version "2.0.7"
-  resolved "http://r.cnpmjs.org/fsevents/download/fsevents-2.0.7.tgz#382c9b443c6cbac4c57187cdda23aa3bf1ccfc2a"
+  resolved "https://r.cnpmjs.org/fsevents/download/fsevents-2.0.7.tgz#382c9b443c6cbac4c57187cdda23aa3bf1ccfc2a"
   integrity sha1-OCybRDxsusTFcYfN2iOqO/HM/Co=
 
 fsevents@^1.2.7:
@@ -7675,7 +7675,7 @@ prompts@^2.0.1:
 
 prop-types@^15.6.2, prop-types@^15.7.2:
   version "15.7.2"
-  resolved "http://r.cnpmjs.org/prop-types/download/prop-types-15.7.2.tgz#52c41e75b8c87e72b9d9360e0206b99dcbffa6c5"
+  resolved "https://r.cnpmjs.org/prop-types/download/prop-types-15.7.2.tgz#52c41e75b8c87e72b9d9360e0206b99dcbffa6c5"
   integrity sha1-UsQedbjIfnK52TYOAga5ncv/psU=
   dependencies:
     loose-envify "^1.4.0"
@@ -7843,7 +7843,7 @@ react-app-polyfill@^1.0.2:
 
 react-dev-utils@^9.0.3:
   version "9.0.3"
-  resolved "http://r.cnpmjs.org/react-dev-utils/download/react-dev-utils-9.0.3.tgz#7607455587abb84599451460eb37cef0b684131a"
+  resolved "https://r.cnpmjs.org/react-dev-utils/download/react-dev-utils-9.0.3.tgz#7607455587abb84599451460eb37cef0b684131a"
   integrity sha1-dgdFVYeruEWZRRRg6zfO8LaEExo=
   dependencies:
     "@babel/code-frame" "7.5.5"
@@ -7884,7 +7884,7 @@ react-dom@^16.9.0:
 
 react-error-overlay@^6.0.1:
   version "6.0.1"
-  resolved "http://r.cnpmjs.org/react-error-overlay/download/react-error-overlay-6.0.1.tgz#b8d3cf9bb991c02883225c48044cb3ee20413e0f"
+  resolved "https://r.cnpmjs.org/react-error-overlay/download/react-error-overlay-6.0.1.tgz#b8d3cf9bb991c02883225c48044cb3ee20413e0f"
   integrity sha1-uNPPm7mRwCiDIlxIBEyz7iBBPg8=
 
 react-is@^16.8.1, react-is@^16.8.4:
@@ -7894,7 +7894,7 @@ react-is@^16.8.1, react-is@^16.8.4:
 
 react-scripts@3.1.1:
   version "3.1.1"
-  resolved "http://r.cnpmjs.org/react-scripts/download/react-scripts-3.1.1.tgz#1796bc92447f3a2d3072c3b71ca99f88d099c48d"
+  resolved "https://r.cnpmjs.org/react-scripts/download/react-scripts-3.1.1.tgz#1796bc92447f3a2d3072c3b71ca99f88d099c48d"
   integrity sha1-F5a8kkR/Oi0wcsO3HKmfiNCZxI0=
   dependencies:
     "@babel/core" "7.5.5"
@@ -9144,9 +9144,9 @@ tmp@^0.0.33:
     os-tmpdir "~1.0.2"
 
 tmpl@1.0.x:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.4.tgz#23640dd7b42d00433911140820e5cf440e521dd1"
-  integrity sha1-I2QN17QtAEM5ERQIIOXPRA5SHdE=
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.5.tgz#8683e0b902bb9c20c4f726e3c0b69f36518c07cc"
+  integrity sha512-3f0uOEAQwIqGuWW2MVzYg8fV/QNnc/IpuJNG837rLuczAaLVHslWHZQj4IGiEl5Hs3kkbhwL9Ab7Hrsmuj+Smw==
 
 to-arraybuffer@^1.0.0:
   version "1.0.1"
